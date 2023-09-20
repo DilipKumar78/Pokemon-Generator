@@ -12,14 +12,14 @@ For Mac, it is different.
 Install the Required npm packages.
 
 ``bash
-npm inint
-``
+npm init
+`` <br>
 ``bash
 npm install express
-``
+`` <br>
 ``bash
 npm install -g nodemon
-``
+`` <br>
 ## Working
 Open the Command Prompt <br>
 Install the Required npm Packages <br>
