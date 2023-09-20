@@ -1,12 +1,12 @@
 # Pokemon-Generator
 This is Personal Project to test my skills in nodejs and expressjs as well as the front end in website.
 
-Instructions:
+##Instructions:
 First ensure that nodejs is installed in your system.
 I used the Command Prompt to run this project.
 For Mac, it is different.
 
-Working:
+##Working:
 From the place where the project resides, open the Command Prompt.
 Install npm init.
 Install expressjs (npm install express).
