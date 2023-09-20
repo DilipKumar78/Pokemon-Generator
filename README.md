@@ -1,9 +1,6 @@
 # Pokemon-Generator
 This is Personal Project to test my skills in nodejs and expressjs as well as the front end in website.
 
-# Roll-the-Dice-
-This is a personal project for me to test my skills in Node-Js and Express Js as well as in front end part of the website
-
 Instructions:
 First ensure that nodejs is installed in your system.
 I used the Command Prompt to run this project.
